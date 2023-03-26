@@ -24,7 +24,7 @@ The task is to develop a JavaScript application that allows users to increase an
 
 ### Links
 
-- URL: [Live Website URL]()
+- URL: [Live Website URL](https://javascript-basics-counter.netlify.app/)
 
 ## My process
 
@@ -103,9 +103,8 @@ The only way to reset the value was to reassign it to 0 again.
 
 ### Useful resources
 
-- []() -
-- []() -
-- []() -
+- [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+- [Javascript.info](https://javascript.info/) -
 
 ## Author
 
