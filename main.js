@@ -13,7 +13,7 @@ optionsWrapper.appendChild(currentDate);
 const modeBtn = document.createElement("button");
 modeBtn.setAttribute("class", "mode-btn");
 modeBtn.classList.add("btn");
-modeBtn.innerText = "# Change Mode #";
+modeBtn.innerText = "* Change Mode *";
 optionsWrapper.appendChild(modeBtn);
 
 const greeting = document.createElement("p");
